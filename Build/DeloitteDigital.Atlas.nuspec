@@ -17,6 +17,6 @@
   <files>
     <file src="..\BuildOutputs\DeloitteDigital.Atlas.dll" target="lib" />
     <file src="license.txt" target="license" />
-    <file src="..\lib\logos\dd-logo-square.png" target="images" />
+    <file src="dd-logo-square.png" target="images" />
   </files>
 </package>
